@@ -1,0 +1,10 @@
+{
+    "broadcast_interval": 5,
+    "server_addr": "0.0.0.0",
+    "client_addr": "0.0.0.0",
+    "server_port": 33333,
+    "client_port": 44444,
+    "apiPort": 55555,
+    "apiUrl": "/rest/v1",
+    "helloMaxLength": 64
+}
